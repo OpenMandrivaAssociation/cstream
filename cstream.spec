@@ -4,7 +4,7 @@ Version:	2.7.6
 Release:	%mkrel 3
 License:	MIT
 Group:		Archiving/Backup
-Url:		http://www.cons.org/cracauer/cstream.html
+Url:		https://www.cons.org/cracauer/cstream.html
 Source0:	http://www.cons.org/cracauer/download/cstream-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires:	autoconf2.5
