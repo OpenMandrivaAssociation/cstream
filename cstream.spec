@@ -7,6 +7,10 @@ Group:		Archiving/Backup
 Url:		https://www.cons.org/cracauer/cstream.html
 Source0:	http://www.cons.org/cracauer/download/cstream-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	autoconf2.5
 
 %description
