@@ -1,7 +1,7 @@
 Summary:	A general-purpose stream-handling tool
 Name:		cstream
 Version:	2.7.6
-Release:	%mkrel 3
+Release:	4
 License:	MIT
 Group:		Archiving/Backup
 Url:		https://www.cons.org/cracauer/cstream.html
